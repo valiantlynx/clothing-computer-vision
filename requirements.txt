@@ -1,0 +1,4 @@
+#git+https://github.com/valiantlynx/bot101v2
+pip
+#matplotlib
+tensorflow
